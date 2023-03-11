@@ -27,25 +27,25 @@ Instructions:
 
 Example output:
 
-Country,Code,Product,Cost,Quantity
-South Africa,SKU44386,Air Max 90,2300,20
+        Country,Code,Product,Cost,Quantity
+        South Africa,SKU44386,Air Max 90,2300,20
 
 - cs - this option will allow a user to add data about a shoe
 - va - this option will display all the stock of the shoes
 
 Example output:
 
-Country: Australia
-Code: SKU71827
-Product: Zoom Hyperfuse
-Cost: 1400
-Quantity: 15
+        Country: Australia
+        Code: SKU71827
+        Product: Zoom Hyperfuse
+        Cost: 1400
+        Quantity: 15
 
-Country: France
-Code: SKU20394
-Product: Eric Koston 1
-Cost: 2322
-Quantity: 17
+        Country: France
+        Code: SKU20394
+        Product: Eric Koston 1
+        Cost: 2322
+        Quantity: 17
 
 
 
@@ -56,23 +56,12 @@ Quantity: 17
 
 Example output:
 
-Select one of the following Options below:
-        
-        rsd - read shoe data
-        cs - capture shoe
-        va - view all
-        rs - re-stock
-        ss - search shoe
-        vpi - value per item
-        hq - highest quantity
-        e - Exit
-        : ss
-Enter a shoe codeSKU20394
-Country: France
-Code: SKU20394
-Product: Eric Koston 1
-Cost: 2322
-Quantity: 17
+        Enter a shoe codeSKU20394
+        Country: France
+        Code: SKU20394
+        Product: Eric Koston 1
+        Cost: 2322
+        Quantity: 17
 
 
 - hq - this option allows you to determine the product with the highest quantity and display that is for sale
